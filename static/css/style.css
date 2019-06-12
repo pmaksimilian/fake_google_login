@@ -1,0 +1,99 @@
+.container
+{
+    text-align: center;
+    margin-top: 50px;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+.title
+{
+    color: DimGrey;
+}
+
+.title-big
+{
+    font-size: 40px;
+}
+
+.title-small
+{
+    font-size: 20px;
+}
+
+.login
+{
+    background-color: WhiteSmoke;
+    width: 450px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border: outset;
+    border-width: 2px;
+    border-color: #e6e6e6;
+}
+
+.profile
+{
+    margin-top: 50px;
+}
+
+.input
+{
+    margin-top: 45px;
+}
+
+#tekst
+{
+    width: 335px;
+    height: 50px;
+    padding-left: 10px;
+    border: outset;
+    border-width: 2px;
+    border-color: #e6e6e6;
+    background-color: LemonChiffon;
+    font-size: 20px;
+    color: #808080;
+}
+
+#gumb
+{
+    width: 350px;
+    height: 45px;
+    background-color: #4d94ff;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.help
+{
+
+    text-align: right;
+    margin-right: 50px;
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+.new
+{
+    margin-top: 35px;
+    font-size: 17px;
+}
+
+a
+{
+    text-decoration: none;
+    color: #3385ff;
+}
+
+.google
+{
+    margin-top: 40px;
+}
+
+#one-google
+{
+    font-size: 15px;
+}
